@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⏳ In the future: I think I will leave current job and find a new job, because if I continue to stay at Samsung, I don't see much opportunities for me to develop more and reach higher level. I'm looking for a company which is more creative, dynamic and comfortable than my current workplace
 - 📃 Here are some typical repositories of mine:
   + https://github.com/anhtuta/SpringBootTech: it's my personal project includes a lot of technologies I like in Java Spring boot
-  + https://github.com/anhtuta/anhtuta.github.io/tree/master/liliana-player: an awesome music player using Javascript with lyric go along with each song! My meme in this project: Lyric is the best! 😄
+  + https://github.com/anhtuta/anhtuta.github.io/tree/master/liliana-player: an awesome music player using Javascript. It's got lyric go along any song you play (Of course you have to provide lyric files 😊)! My slogan in this project: Lyric is the best! 😄
   + https://github.com/anhtuta/Spring: several Java Spring tutorials. You may not know but I'm a big fan of Java since my studying at HUST
   + https://github.com/anhtuta/APS: basic data structure and algorithms: Stack, Queue, DFS, BFS, Backtrack, Recursion
   + https://github.com/anhtuta/Notes: all of my notes about anything I like: Java, Javascript, English, book reviews... I think somebody will find something useful from there
