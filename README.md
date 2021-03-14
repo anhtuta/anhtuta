@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓 My journey has started since 2013 after I attended Hanoi University of Science and Technology (HUST). Although my major was Electronics and Telecommunication, but I had passion about Information Technology and I had to study it by myself during college time. Finally I graduated in 2018 without having much knowledge about Electronics.
 - 🏢 After graduated, I've got Samsung scholarship and started working at SVMC as a Backend Developer since then. This is my first official job in my life and I was so glad and exicited about it!
-- After almost 3 years working at SVMC, now I resigned and have been working for IFI solution since April, 2021.
+- 🌱 After almost 3 years working at SVMC, now I resigned and have been working for IFI solution since April, 2021.
 - 📃 Here are some typical repositories of mine:
   + https://github.com/anhtuta/SpringBootTech: it's my personal project includes a lot of technologies in Java Spring boot
   + https://github.com/anhtuta/anhtuta.github.io/tree/master/liliana-player: a music player using Javascript. It's got lyric go along any song you play (Of course you have to provide lyric files 😊)
