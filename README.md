@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   + https://github.com/anhtuta/SpringBootTech: this project for studying only, includes a lot of technologies in **Java Spring Boot**
   + https://github.com/anhtuta/awesome-react: this project for studying only, about **ReactJS**
   + https://github.com/anhtuta/APS: basic data structure and algorithms: Stack, Queue, DFS, BFS, Backtrack, Recursion
+- My best project: https://anhtuta.github.io/lili-player/#/bai-hat (it's still on developing) 
 - 📫 How to reach me:
   + Email: taanhtu95@gmail.com
   + Phone: <a href="tel:+84975233700">+84975233700</a>
