@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - My best project: https://anhtuta.github.io/lili-player/#/bai-hat
 - 📫 How to reach me:
   + Email: taanhtu95@gmail.com
-  + Phone: <a href="tel:+84975233700">+84975233700</a>
+  + Skype: live:anhtu51195
+  + Phone: <a href="tel:+84975233700">+84975233700</a> (Please don't add my Zalo, I don't use Zalo, this app is suck and stupid! You guys shouldn't use it as well! Vì 1 Việt Nam ko còn Zalo!)
 - ⚡ Fun fact: all continents start and end with the same letter
 <!--
 - 💬 Call me Tuzaku, it's my nickname
