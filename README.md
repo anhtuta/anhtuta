@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🎓 My journey has been starting since **2013** after I attended **HUST**. Although my major was **Electronics**, but I was passionate about **IT**, so I had to study it by myself during university time. Finally I graduated in **2018** without having much knowledge about Electronics.
 - 🏢 After graduated, I've got Samsung scholarship and started working at **SVMC** as a **Backend Developer** since then. This is my first official job in my life and I was so glad and exicited about it!
 - 🌱 After almost 3 years working at SVMC, I **resigned**, here are my experiences:
-  + 6/2018 - 3/2012: **SVMC** (the R&D Center of Samsung about mobile)
+  + 6/2018 - 3/2021: **SVMC** (the R&D Center of Samsung about mobile)
   + 4/2021 - 1/2022: **IFI solution** (a small outsourcing company for customers mostly from Europe and America)
   + 2/2022 - current: **Nextop** (a small outsourcing company for Japanese customers)
 - 📃 Here are some typical repositories of mine:
