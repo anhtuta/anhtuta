@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   + 4/2021 - 1/2022: **IFI solution** (a small outsourcing company for customers mostly from Europe and America)
   + 2/2022 - 7/2022: **Nextop** (a small outsourcing company for Japanese customers)
 - 📃 Some typical repositories of mine:
-  + https://github.com/anhtuta/SpringBootTech: this project for studying only, includes a lot of technologies in **Java Spring Boot**
+  + https://github.com/anhtuta/awesome-spring-boot: this project for studying only, includes a lot of technologies in **Java Spring Boot**
   + https://github.com/anhtuta/awesome-react: this project for studying only, about **ReactJS**
   + https://github.com/anhtuta/APS: basic data structure and algorithms: Stack, Queue, DFS, BFS, Backtrack, Recursion
 - My personal project:
