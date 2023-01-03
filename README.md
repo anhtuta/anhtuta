@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   + 6/2018 - 3/2021: **SVMC** (the R&D Center of Samsung about mobile)
   + 4/2021 - 1/2022: **IFI solution** (a small outsourcing company for customers mostly from Europe and America)
   + 2/2022 - 7/2022: **Nextop** (a small outsourcing company for Japanese customers)
+  + 8/2022 - present: **Ascend Technologies** (a product company for customers in Thailand)
 - 📃 Some typical repositories of mine:
   + https://github.com/anhtuta/awesome-spring-boot: this project for studying only, includes a lot of technologies in **Java Spring Boot**
   + https://github.com/anhtuta/awesome-react: this project for studying only, about **ReactJS**
