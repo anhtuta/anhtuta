@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - 🏢 After graduated, I've got Samsung scholarship and started working at **SVMC** as a **Backend Developer** since then. This is my first official job in my life and I was so glad and exicited about it!
 - 🌱 My experiences:
   + 6/2018 - 3/2021: **SVMC** (the R&D Center of Samsung about mobile)
-  + 4/2021 - 1/2022: **IFI solution** (a small outsourcing company for customers mostly from Europe and America)
-  + 2/2022 - 7/2022: **Nextop** (a small outsourcing company for Japanese customers)
+  + 4/2021 - 7/2022: **IFI solution** (a small outsourcing company for customers mostly from Europe and America)
   + 8/2022 - present: **ASCEND Technology** (a product company for customers in ASEAN, it belongs to Ascend Corporation in Thailand)
 - 📃 Some typical repositories of mine:
   + https://github.com/anhtuta/awesome-spring-boot: this project for studying only, includes a lot of technologies in **Java Spring Boot**
