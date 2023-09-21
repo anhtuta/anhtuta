@@ -28,6 +28,19 @@ Here are some ideas to get you started:
 - My personal project:
   + [Lili Player](https://anhtuta.github.io/lili-player/#/bai-hat): a music player that focuses mainly on lyrics and karaoke effects
   + https://nenmongvn.gtsb.io: an ecommerce website using Gatsby and ReactJS
+- What I love:
+  + Java, spring
+  + Javascript
+  + ReactJS
+  + Markdown
+  + MySQL
+  + Google docs
+- What I detest
+  + Kotlin
+  + JQuery
+  + Python
+  + PHP
+  + Microsoft Office
 - 📫 How to reach me:
   + Email: taanhtu95@gmail.com
   + Skype: live:anhtu51195
