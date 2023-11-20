@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   + https://github.com/anhtuta/APS: basic data structure and algorithms: Stack, Queue, DFS, BFS, Backtrack, Recursion
 - My personal project:
   + [Lili Player](https://anhtuta.github.io/lili-player/#/bai-hat): a music player that focuses mainly on lyrics and karaoke effects
-  + https://nenmongvn.gtsb.io: an ecommerce website using Gatsby and ReactJS
+  + https://nenmongvietnam.com: an ecommerce website using Gatsby and ReactJS
 - What I love:
   + Java, spring
   + Javascript
