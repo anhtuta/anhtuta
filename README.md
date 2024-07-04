@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - 🏢 After graduated, I've got Samsung scholarship and started working at **SVMC** as a **Backend Developer** since then. This is my first official job in my life and I was so glad and exicited about it!
 - 🌱 My experiences:
   + 6/2018 - 3/2021: **SVMC** (the R&D Center of Samsung about mobile)
-  + 4/2021 - 7/2022: **IFI solution** (a small outsourcing company for customers mostly from Europe and America)
-  + 8/2022 - 1/2024: **ASCEND Technology** (a product company for customers in ASEAN, it belongs to Ascend Corporation in Thailand)
+  + 4/2021 - 1/2022: **IFI solution** (a small outsourcing company for customers mostly from Europe and America)
+  + 2/2022 - 7/2022: **Nextop** (a small outsourcing company for Japanese customers)
+  + 8/2022 - 1/2024: **ASCEND Technology** (a product company for customers in ASEAN, it belongs to Ascend Corporation in Thailand). I worked onsite for Ascend VN from 8/2022 - 6/2023, then worked remotely for Ascend Malaysia from 8/2023 - 1/2024)
   + 1/2024 - present: **Deputy** (a product company from Australia)
 - My primary tech stacks: Java (spring, micronaut), Javascript (ReactJS, VueJS, Gatsby), MySQL, Redis, RabbitMQ
 - My secondary tech stacks: PHP, C/C++, Go, Postgres
