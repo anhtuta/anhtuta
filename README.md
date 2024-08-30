@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   + https://github.com/anhtuta/awesome-react: this project for studying only, about **ReactJS**
   + https://github.com/anhtuta/APS: basic data structure and algorithms: Stack, Queue, DFS, BFS, Backtrack, Recursion
 - 💬 Call me Tuzaku, it's my nickname
+- Phone: <a href="tel:+84975233700">+84975233700</a> (Please don't add my Zalo, I don't use Zalo, this app is suck and stupid! You guys shouldn't use it as well! Vì 1 Việt Nam ko còn Zalo!)
 -->
 
 ## Hi there 👋
@@ -36,7 +37,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - Email: taanhtu95@gmail.com
   - Skype: `live:anhtu51195`
-  - Phone: <a href="tel:+84975233700">+84975233700</a> (Please don't add my Zalo, I don't use Zalo, this app is suck and stupid! You guys shouldn't use it as well! Vì 1 Việt Nam ko còn Zalo!)
   - [LinkedIn](https://www.linkedin.com/in/anhtuta95/)
-  - [Facebook](https://www.facebook.com/anhtuta95/)
 - ⚡ Fun fact: all continents start and end with the same letter
