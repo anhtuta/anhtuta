@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   - 6/2018 - 3/2021: **SVMC** (a R&D Center of Samsung)
   - 4/2021 - 7/2022: **IFI solution** (a small outsourcing company for customers mostly from Europe and America)
   - 8/2022 - 1/2024: **ASCEND Tech** (a product company, I worked with Thai and Malaysia teams)
-  - 1/2024 - present: **CBTW (Deputy)** (a product company from Australia)
+  - 1/2024 - 12/2025: **CBTW (Deputy)** (a product company from Australia)
 - 📚 My primary tech stacks: Java (Spring), Javascript (ReactJS, NextJS, Gatsby), SQL (MySQL, Postgres), Redis, RabbitMQ
 - 👨‍💻 My personal projects:
   - [Lili Player](https://anhtuta.github.io/lili-player/#/bai-hat): a music player that focuses mainly on lyrics and karaoke effects
